@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="770.0" style="-fx-border-color: rgb(0,0,0); -fx-border-width: 1;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="addFileButton" focusTraversable="false" layoutX="225.0" layoutY="35.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0" text="Добавить файл">
+         <font>
+            <Font name="System Bold" size="10.0" />
+         </font></Button>
+      <Button fx:id="removeFileButton" focusTraversable="false" layoutX="425.0" layoutY="35.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0" text="Удалить">
+         <font>
+            <Font name="System Bold" size="10.0" />
+         </font></Button>
+      <TreeView fx:id="treeView" focusTraversable="false" layoutX="14.0" layoutY="70.0" prefHeight="410.0" prefWidth="200.0" />
+      <TableView fx:id="tableView" focusTraversable="false" layoutX="225.0" layoutY="70.0" prefHeight="410.0" prefWidth="530.0">
+        <columns>
+          <TableColumn fx:id="nameColumn" prefWidth="200.0" resizable="false" text="Имя" />
+          <TableColumn fx:id="sizeColumn" resizable="false" text="Размер" />
+            <TableColumn fx:id="typeColumn" prefWidth="120.0" resizable="false" text="Тип" />
+            <TableColumn fx:id="dateOfModifyingColumn" prefWidth="129.0" resizable="false" text="Дата изменения" />
+        </columns>
+      </TableView>
+      <Label layoutX="15.0" layoutY="35.0" prefHeight="33.0" prefWidth="200.0" text="Коллекция:">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Button fx:id="addFolderButton" focusTraversable="false" layoutX="325.0" layoutY="35.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0" text="Создать папку">
+         <font>
+            <Font name="System Bold" size="10.0" />
+         </font>
+      </Button>
+      <TextField fx:id="searchField" focusTraversable="false" layoutX="575.0" layoutY="35.0" prefHeight="30.0" prefWidth="180.0" promptText="Поиск" />
+      <Button fx:id="exitProgramButton" layoutX="690.0" layoutY="1.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" style="-fx-background-color: STEELBLUE; -fx-border-width: 0; -fx-background-radius: 0;" text="Выход" textFill="WHITE" />
+      <Button fx:id="enterInSystemButton" layoutX="15.0" layoutY="1.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" style="-fx-background-radius: 0; -fx-background-color: STEELBLUE;" text="Войти" textFill="WHITE" />
+      <Button fx:id="editPasswordButton" layoutX="85.0" layoutY="1.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="110.0" style="-fx-background-radius: 0; -fx-background-color: STEELBLUE;" text="Сменить пароль" textFill="WHITE" />
+   </children>
+</Pane>

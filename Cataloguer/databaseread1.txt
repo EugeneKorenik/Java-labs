@@ -1,0 +1,39 @@
+Limit
+10.0
+27.02.18 22:42
+Password
+96?????
+Password
+-111?
+Folder
+Все
+Folder
+Музыка
+Folder
+Музыка_1
+Files
+D:\Курсовая\clients.xml
+D:\ЭРУД КПиЯП.rar
+end
+Files
+D:\Лабы\Тэц\Лаба3.docx
+end
+Folder
+Видео
+Files
+D:\Лабы\Физика\Лаба 3.3\Лаба 3,3.pdf
+end
+Folder
+Изображения
+Files
+end
+Folder
+Книги
+Files
+end
+Folder
+Документы
+Files
+end
+Files
+end

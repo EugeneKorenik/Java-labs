@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accountList>
+    <accountList>
+        <login>login</login>
+        <password>password</password>
+        <rights>0</rights>
+    </accountList>
+    <accountList>
+        <login>1</login>
+        <password>1</password>
+        <rights>0</rights>
+    </accountList>
+    <accountList>
+        <login>2</login>
+        <password>2</password>
+        <rights>3</rights>
+    </accountList>
+</accountList>

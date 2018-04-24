@@ -1,0 +1,5 @@
+
+2018-04-24 19:12:19 WARN  AuthorizationDisplay:115 - java.net.ConnectException: Connection refused: connect
+2018-04-24 19:12:21 WARN  AuthorizationDisplay:115 - java.net.ConnectException: Connection refused: connect
+2018-04-24 19:12:22 WARN  AuthorizationDisplay:115 - java.net.ConnectException: Connection refused: connect
+2018-04-24 19:12:23 WARN  AuthorizationDisplay:115 - java.net.ConnectException: Connection refused: connect

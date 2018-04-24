@@ -1,0 +1,45 @@
+Limit
+10.0
+24.04.18 12:55
+Password
+_
+Password
+pn`m
+Folder
+¬се
+Folder
+ћузыка
+Folder
+ћузыка_1
+Files
+D:\ урсова€\clients.xml
+D:\Ё–”ƒ  ѕияѕ.rar
+end
+Files
+D:\Ћабы\“эц\Ћаба3.docx
+D:\Ё–”ƒ  ѕияѕ.rar
+end
+Folder
+¬идео
+Files
+D:\Ћабы\‘изика\Ћаба 3.3\Ћаба 3,3.pdf
+D:\”чеба\SPO1.pdf
+end
+Folder
+»зображени€
+Files
+D:\Ё–”ƒ  ѕияѕ.rar
+D:\Ћабы\Ёп\Ћаба 2 Ёѕ.pdf
+end
+Folder
+ƒокументы
+Files
+end
+Folder
+”чеба
+Files
+D:\Ћабы\“эц\Ћаба3.docx
+end
+Files
+D:\Download\385.69-notebook-win8-win7-64bit-international-whql.exe
+end
