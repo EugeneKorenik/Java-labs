@@ -197,7 +197,7 @@ public class SingleServer extends Thread {
     /** Search account with the pair login-password
      * @param pair Pair of login-password
      * @return Does it exist */
-	private boolean clientExist(ArrayList<String> pair) {
+	public boolean clientExist(ArrayList<String> pair) {
 		int size = accountList.size();
 			
 		for(int i = 0; i < size; i++) {
